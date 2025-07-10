@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68631477722",
+    "project_id": "urban-wildlife-tracker",
+    "storage_bucket": "urban-wildlife-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68631477722:android:3c2102c8422507c43614e3",
+        "android_client_info": {
+          "package_name": "com.example.urban_wildlife_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4GIcehy0ROdOQm6f6e6BO7WWhxMQZRTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

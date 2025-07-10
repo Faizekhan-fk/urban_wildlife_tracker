@@ -1,0 +1,26 @@
+name: urban_wildlife_tracker
+description: A mobile app to track wildlife sightings in urban areas.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^10.1.0
+  flutter_map: ^6.2.1
+  latlong2: ^0.9.1
+  firebase_core: ^3.15.1
+  firebase_auth: ^5.6.2
+  cloud_firestore: ^5.6.11
+  firebase_storage: ^12.4.9
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
